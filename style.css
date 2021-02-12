@@ -1,0 +1,62 @@
+body{
+    background-image: url(mrolimpia.jpg);
+    color: black;
+    margin: 0px;
+	padding: 0px;
+}
+.tartalom {
+	margin: 0 auto 0 auto;
+	background-color:gray;
+	border: 0px;
+	width: 700px;
+    text-align: justify;
+}
+#fejlec{
+    background-color:gray;
+    height:50px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+}
+#menu{
+    background-color:gray;
+    font-size: 20px;
+    height: 20px;
+    text-align: center;
+    font-style: oblique;
+    
+}
+.kep{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: 0 auto 0 auto;
+}
+#balmenu{
+    background-color: lightgray;
+    height: 272px;
+    width: 130px;
+    float: left;
+    margin: 0 auto 0 auto;
+}
+#lablec{
+    background-color:gray;
+    height:30px;
+    text-align:center;>
+}
+a{
+    color: lightgray;
+}
+details{
+    color: black;
+    background-color: grey;
+}
+
+.jobbra{
+    float: right;
+}
+
+.tapkiegkep{
+    background-image: url(tapkieg.jpg);
+}
